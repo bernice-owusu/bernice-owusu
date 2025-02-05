@@ -9,10 +9,8 @@
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['JavaScript', 'Python', 'TypeScript', 'Java'],
-    frameworks: ['React', 'Next.js', 'Node.js'],
-    platforms: ['GitHub', 'Vercel', 'Cloudinary'],
-    ai: ['OpenAI', 'Machine Learning', 'Data Analysis']
+    languages: ['JavaScript'],
+    frameworks: ['React', 'Next.js', 'Node.js', 'React Native'],
 };
 ```
 
