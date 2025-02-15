@@ -8,10 +8,9 @@
 
 ## 🛠️ Technical Stack
 ```javascript
-const skills = {
-    languages: ['JavaScript'],
-    frameworks: ['React', 'Next.js', 'Node.js', 'React Native'],
-};
+const skills = [ React Native, Flutter ]
+   
+;
 ```
 
 <!-- ## 🚀 Key Projects
