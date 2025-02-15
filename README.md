@@ -1,6 +1,6 @@
 # Bernice Owusu
 
-> Software Engineer | Designer
+> Software Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/bernice-owusu)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bernyx.owusu@gmail.com)
