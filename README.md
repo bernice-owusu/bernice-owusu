@@ -8,7 +8,7 @@
 
 ## 🛠️ Technical Stack
 ```javascript
-const skills = [ React Native, Flutter ];
+const skills = [ React, React Native, Laravel ];
 ```
 
 <!-- ## 🚀 Key Projects
