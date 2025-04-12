@@ -36,7 +36,7 @@ class SoftwareEngineer {
     constructor() {
         this.name = "Bernice Owusu";
         this.role = "Software Engineer";
-        this.languageSpoken = ["en_US", fr_FR];
+        this.languageSpoken = ["en_US", "fr_FR"];
     }
 
     sayHi(): void {
